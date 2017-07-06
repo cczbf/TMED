@@ -12,6 +12,6 @@ e.g. :
 
 tmed 16steps1020x280.raw 1020 280
 
-This will create a file named Result.raw, which is the halftoning result of the file 16steps1020x280.raw ..c
+This will create a file named Result.raw, which is the halftoning result of the file 16steps1020x280.raw .
 
  
