@@ -8,7 +8,7 @@ Usage: TMED <input\> <width\> <height\>\
 <width\>: width of the input image\
 <height\>: height of the image\
 
-e.g. 
+e.g. :
 
 tmed 16steps1020x280.raw 1020 280
 
